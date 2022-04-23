@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Monika</h1>
+<h1 align="center">Hi 👋, I'm kc17m</h1>
 <h3 align="center">JavaScript Web Developer</h3>
 
 - 🌱 I’m currently learning **Node.js**
