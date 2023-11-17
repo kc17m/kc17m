@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm kc17m</h1>
 <h3 align="center">JavaScript Web Developer</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning 
 
-- 📫 How to reach me: **redpaperbird7@gmail.com**
+- 📫 How to reach me
 
 
 
